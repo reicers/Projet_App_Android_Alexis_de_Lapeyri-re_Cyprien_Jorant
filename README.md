@@ -9,3 +9,5 @@ Main activity, permettant de naviger entre 3 fragments :
 
 La deuxième activité affiche les différents bureaux de post sur google maps
 
+Alexis de Lapeyrière
+Cyprien Jorant
